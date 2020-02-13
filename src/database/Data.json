@@ -1,0 +1,64 @@
+{
+  "acai":{
+    "sabor": {
+      "morango": {
+        "nome": "Morango",
+        "id": "sabor1",
+        "valor": 0,
+        "tempo": 0
+      },
+      "banana": {
+        "nome": "Banana",
+        "id": "sabor2",
+        "valor": 0,
+        "tempo": 0
+      },
+      "kiwi": {
+        "nome": "Kiwi",
+        "id": "sabor3",
+        "valor": 0,
+        "tempo": 5
+      }
+    },
+    "tamanho": {
+      "pequeno": {
+        "nome":"Pequeno",
+        "id": "tam1",
+        "valor": 10,
+        "tempo": 5
+      },
+      "medio": {
+        "nome": "Médio",
+        "id": "tam2",
+        "valor": 13,
+        "tempo": 7
+      },
+      "grande": {
+        "nome": "Grande",
+        "id": "tam3",
+        "valor": 15,
+        "tempo": 10
+      }
+    },
+    "personalizacao" : {
+      "leiteninho": {
+        "nome": "Leite Ninho",
+        "id": "per1",
+        "valor": 3,
+        "tempo": 0
+      },
+      "granola": {
+        "nome": "Granola",
+        "id": "per2",
+        "valor": 0,
+        "tempo": 0
+      },
+      "pacoca": {
+        "nome": "Paçoca",
+        "id": "per3",
+        "valor": 3,
+        "tempo": 3
+      }
+    }
+  }
+}
